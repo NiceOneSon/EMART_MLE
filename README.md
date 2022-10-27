@@ -7,9 +7,7 @@
 ### 테스트 결과서
 
 1. Docker Build
-
-    
-    [![Untitled](EMART%20ML%20Engineer%20026a107525f149c3b11d92a4bb5b5667/Untitled.png)](https://github.com/NiceOneSon/EMART_MLE/issues/new)
+   <img width="380" alt="Untitled" src="https://user-images.githubusercontent.com/103669413/198397983-a343eff5-2a6d-41ef-80d3-f35de70a89ea.png">
     
 2. Docker Run
     
