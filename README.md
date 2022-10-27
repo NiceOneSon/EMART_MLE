@@ -17,9 +17,9 @@
 3. REST API Testing
 port num 8000으로 테스트 결과 하기 내용과 같습니다.
 결과는 Json 형태로 PM10, PM25 두 개의 데이터를 받습니다.
-
     
-    ![Untitled](EMART%20ML%20Engineer%20026a107525f149c3b11d92a4bb5b5667/Untitled%202.png)
+   <img width="1635" alt="Untitled (2)" src="https://user-images.githubusercontent.com/103669413/198398241-17d63a30-a1d6-4858-9609-348a8a3d7296.png">
+
     
 4. Test 결과
     1. Test Sample data (20%) RMSE : 4.25
