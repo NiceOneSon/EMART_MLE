@@ -7,11 +7,12 @@
 ### 테스트 결과서
 
 1. Docker Build
+   
    <img width="380" alt="Untitled" src="https://user-images.githubusercontent.com/103669413/198397983-a343eff5-2a6d-41ef-80d3-f35de70a89ea.png">
     
 2. Docker Run
     
-    ![Untitled](EMART%20ML%20Engineer%20026a107525f149c3b11d92a4bb5b5667/Untitled%201.png)
+    <img width="425" alt="Untitled (1)" src="https://user-images.githubusercontent.com/103669413/198398096-7a4a4402-9627-4fa6-8954-c1d0093bb17b.png">
     
 3. REST API Testing
 port num 8000으로 테스트 결과 하기 내용과 같습니다.
