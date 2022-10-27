@@ -15,6 +15,7 @@
     <img width="425" alt="Untitled (1)" src="https://user-images.githubusercontent.com/103669413/198398096-7a4a4402-9627-4fa6-8954-c1d0093bb17b.png">
     
 3. REST API Testing
+
 port num 8000으로 테스트 결과 하기 내용과 같습니다.
 결과는 Json 형태로 PM10, PM25 두 개의 데이터를 받습니다.
     
