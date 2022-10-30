@@ -1,3 +1,5 @@
+# EMART_MLE
+
 # EMART ML Engineer
 
 금번 채용 과정 중 과제 전형에 따른 테스트 결과서 입니다.
@@ -5,20 +7,20 @@
 ### 테스트 결과서
 
 1. Docker Build
-
-    
-    ![Untitled](EMART%20ML%20Engineer%20026a107525f149c3b11d92a4bb5b5667/Untitled.png)
+   
+   <img width="380" alt="Untitled" src="https://user-images.githubusercontent.com/103669413/198397983-a343eff5-2a6d-41ef-80d3-f35de70a89ea.png">
     
 2. Docker Run
     
-    ![Untitled](EMART%20ML%20Engineer%20026a107525f149c3b11d92a4bb5b5667/Untitled%201.png)
+    <img width="425" alt="Untitled (1)" src="https://user-images.githubusercontent.com/103669413/198398096-7a4a4402-9627-4fa6-8954-c1d0093bb17b.png">
     
 3. REST API Testing
+
 port num 8000으로 테스트 결과 하기 내용과 같습니다.
 결과는 Json 형태로 PM10, PM25 두 개의 데이터를 받습니다.
-
     
-    ![Untitled](EMART%20ML%20Engineer%20026a107525f149c3b11d92a4bb5b5667/Untitled%202.png)
+   <img width="1635" alt="Untitled (2)" src="https://user-images.githubusercontent.com/103669413/198398241-17d63a30-a1d6-4858-9609-348a8a3d7296.png">
+
     
 4. Test 결과
     1. Test Sample data (20%) RMSE : 4.25
@@ -55,7 +57,7 @@ port num 8000으로 테스트 결과 하기 내용과 같습니다.
             | 2021-01-30 | 52.834732 | 55 | 23.32058 | 24 |
             | 2021-01-31 | 49.65144 | 62 | 26.58119 | 29 |
             
-            ![Untitled](EMART%20ML%20Engineer%20026a107525f149c3b11d92a4bb5b5667/Untitled%203.png)
+            ![Untitled (3)](https://user-images.githubusercontent.com/103669413/198398436-cfd13170-366b-4f2f-91bf-cab7ca0f3ab2.png)
             
         - 2월
             
@@ -91,7 +93,7 @@ port num 8000으로 테스트 결과 하기 내용과 같습니다.
             | 2021-02-27 | 15.490236 | 21 | 9.446382 | 11 |
             | 2021-02-28 | 21.170582 | 26 | 12.473009 | 14 |
             
-            ![Untitled](EMART%20ML%20Engineer%20026a107525f149c3b11d92a4bb5b5667/Untitled%204.png)
+            ![Untitled (4)](https://user-images.githubusercontent.com/103669413/198398494-49242581-007a-4c75-a090-59523ba2091e.png)
             
         - 3월
             
@@ -129,7 +131,7 @@ port num 8000으로 테스트 결과 하기 내용과 같습니다.
             | 2021-03-29 | 257.09564 | 312 | 46.325375 | 57 |
             | 2021-03-30 | 122.70744 | 175 | 25.439257 | 34 |
             
-            ![Untitled](EMART%20ML%20Engineer%20026a107525f149c3b11d92a4bb5b5667/Untitled%205.png)
+            ![Untitled (5)](https://user-images.githubusercontent.com/103669413/198398543-80c440a0-6e8f-419b-8c87-75308dbaeabd.png)
             
         - 4월
             
@@ -167,9 +169,8 @@ port num 8000으로 테스트 결과 하기 내용과 같습니다.
             | 2021-04-29 | 58.769573 | 73 | 19.3532 | 22 |
             | 2021-04-30 | 33.97409 | 38 | 16.46458 | 17 |
             
-            ![Untitled](EMART%20ML%20Engineer%20026a107525f149c3b11d92a4bb5b5667/Untitled%206.png)
-            
-        
+            ![Untitled (6)](https://user-images.githubusercontent.com/103669413/198398574-034d958a-2bc0-4d91-b339-0b1c532d4516.png)
+
 5. 아키텍처 제안
     
     부하 분산 및 급격한 트래픽 변화에 대응하기 위해서는 GCP 내 GKE에서 제공하는 Auto Scaling을 사용할 거 같습니다.
